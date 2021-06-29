@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">retroFitDemo</string>
+    <string name="user_id_demarcate">User ID: </string>
+    <string name="id_demarcate">ID: </string>
+    <string name="title_demarcate">Title: </string>
+
+</resources>
